@@ -1,0 +1,27 @@
+h1#kuyama{
+    color:white;
+    text-align: center;
+    background-color: black;
+}
+
+body{
+    background-image: url("../images/03.jpg");
+}
+
+h2.aquamarine{
+    color: red;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+h2.aqua{
+    color : gold;
+    text-align: center;
+    background-color: aqua;
+}
+
+h1#kaito{
+    color:blue;
+    text-align: center;
+    background-color: orange;
+}
